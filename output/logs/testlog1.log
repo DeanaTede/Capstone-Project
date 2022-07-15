@@ -1,0 +1,148 @@
+2022-07-08 17:32:48,074 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tab started
+2022-07-08 17:32:50,299 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-07-08 17:33:13,154 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tabFAILED
+2022-07-08 17:34:13,954 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tab started
+2022-07-08 17:34:16,673 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-07-08 17:34:38,632 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tab started
+2022-07-08 17:34:39,352 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tabFAILED
+2022-07-08 17:34:41,082 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-07-08 17:35:03,954 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tabFAILED
+2022-07-08 17:37:26,221 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tab started
+2022-07-08 17:37:28,524 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-07-08 17:37:51,381 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tabFAILED
+2022-07-11 17:55:45,716 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tab started
+2022-07-11 17:55:53,501 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-07-11 17:55:59,956 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tabUNDEFINED
+2022-07-11 18:27:35,514 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tab started
+2022-07-11 18:27:39,626 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-07-11 18:27:45,705 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tabUNDEFINED
+2022-07-11 20:06:05,037 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tab started
+2022-07-11 20:06:08,616 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-07-11 20:06:19,512 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Show all desktops
+2022-07-11 20:06:25,251 [main] INFO .\src\test\resources\input\log4j.properties - User click on Show all desktops
+2022-07-11 20:06:25,669 [main] INFO .\src\test\resources\input\log4j.properties - is present
+2022-07-11 20:06:30,952 [main] INFO .\src\test\resources\input\log4j.properties - Desktopsis present
+2022-07-11 20:06:36,217 [main] INFO .\src\test\resources\input\log4j.properties - Apple Cinema 30"is present
+2022-07-11 20:06:41,469 [main] INFO .\src\test\resources\input\log4j.properties - Canon EOS 5D Camerais present
+2022-07-11 20:06:46,718 [main] INFO .\src\test\resources\input\log4j.properties - HP LP3065is present
+2022-07-11 20:06:52,004 [main] INFO .\src\test\resources\input\log4j.properties - HTC Touch HDis present
+2022-07-11 20:06:57,232 [main] INFO .\src\test\resources\input\log4j.properties - iPhoneis present
+2022-07-11 20:07:02,435 [main] INFO .\src\test\resources\input\log4j.properties - iPod Classicis present
+2022-07-11 20:07:07,686 [main] INFO .\src\test\resources\input\log4j.properties - MacBookis present
+2022-07-11 20:07:12,913 [main] INFO .\src\test\resources\input\log4j.properties - MacBook Airis present
+2022-07-11 20:07:18,158 [main] INFO .\src\test\resources\input\log4j.properties - Palm Treo Prois present
+2022-07-11 20:07:23,421 [main] INFO .\src\test\resources\input\log4j.properties - Product 8is present
+2022-07-11 20:07:28,641 [main] INFO .\src\test\resources\input\log4j.properties - Samsung SyncMaster 941BWis present
+2022-07-11 20:07:33,862 [main] INFO .\src\test\resources\input\log4j.properties - Sony VAIOis present
+2022-07-11 20:07:39,515 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tabPASSED
+2022-07-11 20:08:52,942 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tab started
+2022-07-11 20:08:54,182 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tab started
+2022-07-11 20:08:56,599 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-07-11 20:08:58,951 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-07-11 20:09:08,164 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Show all desktops
+2022-07-11 20:09:09,616 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Show all desktops
+2022-07-11 20:09:14,174 [main] INFO .\src\test\resources\input\log4j.properties - User click on Show all desktops
+2022-07-11 20:09:14,648 [main] INFO .\src\test\resources\input\log4j.properties - is present
+2022-07-11 20:09:15,815 [main] INFO .\src\test\resources\input\log4j.properties - User click on Show all desktops
+2022-07-11 20:09:16,140 [main] INFO .\src\test\resources\input\log4j.properties - is present
+2022-07-11 20:09:19,877 [main] INFO .\src\test\resources\input\log4j.properties - Desktopsis present
+2022-07-11 20:09:21,327 [main] INFO .\src\test\resources\input\log4j.properties - Desktopsis present
+2022-07-11 20:09:25,212 [main] INFO .\src\test\resources\input\log4j.properties - Apple Cinema 30"is present
+2022-07-11 20:09:26,577 [main] INFO .\src\test\resources\input\log4j.properties - Apple Cinema 30"is present
+2022-07-11 20:09:30,518 [main] INFO .\src\test\resources\input\log4j.properties - Canon EOS 5D Camerais present
+2022-07-11 20:09:36,335 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tabFAILED
+2022-07-11 20:09:48,258 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tabFAILED
+2022-07-12 12:57:48,836 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tab started
+2022-07-12 12:57:52,952 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-07-12 12:58:16,402 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tabFAILED
+2022-07-12 13:00:11,623 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tab started
+2022-07-12 13:00:15,236 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-07-12 13:00:26,350 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Show all desktops
+2022-07-12 13:00:32,108 [main] INFO .\src\test\resources\input\log4j.properties - User click on Show all desktops
+2022-07-12 13:00:32,699 [main] INFO .\src\test\resources\input\log4j.properties - is present
+2022-07-12 13:00:37,947 [main] INFO .\src\test\resources\input\log4j.properties - Desktopsis present
+2022-07-12 13:00:43,187 [main] INFO .\src\test\resources\input\log4j.properties - Apple Cinema 30"is present
+2022-07-12 13:00:48,474 [main] INFO .\src\test\resources\input\log4j.properties - Canon EOS 5D Camerais present
+2022-07-12 13:00:53,738 [main] INFO .\src\test\resources\input\log4j.properties - HP LP3065is present
+2022-07-12 13:00:58,974 [main] INFO .\src\test\resources\input\log4j.properties - HTC Touch HDis present
+2022-07-12 13:01:04,278 [main] INFO .\src\test\resources\input\log4j.properties - iPhoneis present
+2022-07-12 13:01:09,544 [main] INFO .\src\test\resources\input\log4j.properties - iPod Classicis present
+2022-07-12 13:01:14,777 [main] INFO .\src\test\resources\input\log4j.properties - MacBookis present
+2022-07-12 13:01:20,032 [main] INFO .\src\test\resources\input\log4j.properties - MacBook Airis present
+2022-07-12 13:01:25,278 [main] INFO .\src\test\resources\input\log4j.properties - Palm Treo Prois present
+2022-07-12 13:01:30,497 [main] INFO .\src\test\resources\input\log4j.properties - Product 8is present
+2022-07-12 13:01:35,735 [main] INFO .\src\test\resources\input\log4j.properties - Samsung SyncMaster 941BWis present
+2022-07-12 13:01:40,964 [main] INFO .\src\test\resources\input\log4j.properties - Sony VAIOis present
+2022-07-12 13:01:46,710 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tabPASSED
+2022-07-15 11:25:04,341 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tab started
+2022-07-15 11:25:10,867 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-07-15 11:25:21,945 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Show all desktops
+2022-07-15 11:25:27,872 [main] INFO .\src\test\resources\input\log4j.properties - User click on Show all desktops
+2022-07-15 11:25:28,238 [main] INFO .\src\test\resources\input\log4j.properties - is present
+2022-07-15 11:25:33,500 [main] INFO .\src\test\resources\input\log4j.properties - Desktopsis present
+2022-07-15 11:25:38,706 [main] INFO .\src\test\resources\input\log4j.properties - Apple Cinema 30"is present
+2022-07-15 11:25:43,938 [main] INFO .\src\test\resources\input\log4j.properties - Canon EOS 5D Camerais present
+2022-07-15 11:25:49,170 [main] INFO .\src\test\resources\input\log4j.properties - HP LP3065is present
+2022-07-15 11:25:54,367 [main] INFO .\src\test\resources\input\log4j.properties - HTC Touch HDis present
+2022-07-15 11:25:59,581 [main] INFO .\src\test\resources\input\log4j.properties - iPhoneis present
+2022-07-15 11:26:04,771 [main] INFO .\src\test\resources\input\log4j.properties - iPod Classicis present
+2022-07-15 11:26:09,979 [main] INFO .\src\test\resources\input\log4j.properties - MacBookis present
+2022-07-15 11:26:15,158 [main] INFO .\src\test\resources\input\log4j.properties - MacBook Airis present
+2022-07-15 11:26:20,402 [main] INFO .\src\test\resources\input\log4j.properties - Palm Treo Prois present
+2022-07-15 11:26:25,591 [main] INFO .\src\test\resources\input\log4j.properties - Product 8is present
+2022-07-15 11:26:30,812 [main] INFO .\src\test\resources\input\log4j.properties - Samsung SyncMaster 941BWis present
+2022-07-15 11:26:36,023 [main] INFO .\src\test\resources\input\log4j.properties - Sony VAIOis present
+2022-07-15 11:26:41,615 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tabPASSED
+2022-07-15 11:30:34,550 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tab started
+2022-07-15 11:30:38,712 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-07-15 11:30:55,732 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tab started
+2022-07-15 11:31:00,585 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-07-15 11:31:01,870 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tabFAILED
+2022-07-15 11:31:11,709 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Show all desktops
+2022-07-15 11:31:17,924 [main] INFO .\src\test\resources\input\log4j.properties - User click on Show all desktops
+2022-07-15 11:31:18,476 [main] INFO .\src\test\resources\input\log4j.properties - is present
+2022-07-15 11:31:23,740 [main] INFO .\src\test\resources\input\log4j.properties - Desktopsis present
+2022-07-15 11:31:29,105 [main] INFO .\src\test\resources\input\log4j.properties - Apple Cinema 30"is present
+2022-07-15 11:31:34,383 [main] INFO .\src\test\resources\input\log4j.properties - Canon EOS 5D Camerais present
+2022-07-15 11:31:39,668 [main] INFO .\src\test\resources\input\log4j.properties - HP LP3065is present
+2022-07-15 11:31:44,955 [main] INFO .\src\test\resources\input\log4j.properties - HTC Touch HDis present
+2022-07-15 11:31:50,253 [main] INFO .\src\test\resources\input\log4j.properties - iPhoneis present
+2022-07-15 11:31:55,579 [main] INFO .\src\test\resources\input\log4j.properties - iPod Classicis present
+2022-07-15 11:32:00,875 [main] INFO .\src\test\resources\input\log4j.properties - MacBookis present
+2022-07-15 11:32:06,167 [main] INFO .\src\test\resources\input\log4j.properties - MacBook Airis present
+2022-07-15 11:32:11,448 [main] INFO .\src\test\resources\input\log4j.properties - Palm Treo Prois present
+2022-07-15 11:32:16,762 [main] INFO .\src\test\resources\input\log4j.properties - Product 8is present
+2022-07-15 11:32:22,034 [main] INFO .\src\test\resources\input\log4j.properties - Samsung SyncMaster 941BWis present
+2022-07-15 11:32:27,329 [main] INFO .\src\test\resources\input\log4j.properties - Sony VAIOis present
+2022-07-15 11:32:33,872 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tabPASSED
+2022-07-15 11:35:39,554 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tab started
+2022-07-15 11:35:44,541 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-07-15 11:35:55,772 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Show all desktops
+2022-07-15 11:36:01,745 [main] INFO .\src\test\resources\input\log4j.properties - User click on Show all desktops
+2022-07-15 11:36:02,305 [main] INFO .\src\test\resources\input\log4j.properties - is present
+2022-07-15 11:36:07,588 [main] INFO .\src\test\resources\input\log4j.properties - Desktopsis present
+2022-07-15 11:36:12,861 [main] INFO .\src\test\resources\input\log4j.properties - Apple Cinema 30"is present
+2022-07-15 11:36:18,131 [main] INFO .\src\test\resources\input\log4j.properties - Canon EOS 5D Camerais present
+2022-07-15 11:36:23,397 [main] INFO .\src\test\resources\input\log4j.properties - HP LP3065is present
+2022-07-15 11:36:28,643 [main] INFO .\src\test\resources\input\log4j.properties - HTC Touch HDis present
+2022-07-15 11:36:33,855 [main] INFO .\src\test\resources\input\log4j.properties - iPhoneis present
+2022-07-15 11:36:39,177 [main] INFO .\src\test\resources\input\log4j.properties - iPod Classicis present
+2022-07-15 11:36:44,384 [main] INFO .\src\test\resources\input\log4j.properties - MacBookis present
+2022-07-15 11:36:49,643 [main] INFO .\src\test\resources\input\log4j.properties - MacBook Airis present
+2022-07-15 11:36:54,888 [main] INFO .\src\test\resources\input\log4j.properties - Palm Treo Prois present
+2022-07-15 11:37:00,127 [main] INFO .\src\test\resources\input\log4j.properties - Product 8is present
+2022-07-15 11:37:05,357 [main] INFO .\src\test\resources\input\log4j.properties - Samsung SyncMaster 941BWis present
+2022-07-15 11:37:10,589 [main] INFO .\src\test\resources\input\log4j.properties - Sony VAIOis present
+2022-07-15 11:37:16,180 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tabPASSED
+2022-07-15 12:15:39,498 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tab started
+2022-07-15 12:15:44,327 [main] INFO .\src\test\resources\input\log4j.properties - user is on Retail Website
+2022-07-15 12:15:55,510 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on Show all desktops
+2022-07-15 12:16:01,819 [main] INFO .\src\test\resources\input\log4j.properties - User click on Show all desktops
+2022-07-15 12:16:02,209 [main] INFO .\src\test\resources\input\log4j.properties - is present
+2022-07-15 12:16:07,483 [main] INFO .\src\test\resources\input\log4j.properties - Desktopsis present
+2022-07-15 12:16:12,776 [main] INFO .\src\test\resources\input\log4j.properties - Apple Cinema 30"is present
+2022-07-15 12:16:18,041 [main] INFO .\src\test\resources\input\log4j.properties - Canon EOS 5D Camerais present
+2022-07-15 12:16:23,268 [main] INFO .\src\test\resources\input\log4j.properties - HP LP3065is present
+2022-07-15 12:16:28,509 [main] INFO .\src\test\resources\input\log4j.properties - HTC Touch HDis present
+2022-07-15 12:16:33,745 [main] INFO .\src\test\resources\input\log4j.properties - iPhoneis present
+2022-07-15 12:16:51,469 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tabFAILED
